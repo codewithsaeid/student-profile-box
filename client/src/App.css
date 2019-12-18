@@ -1,0 +1,10 @@
+.landingbg {
+  background: url("./img/showcase.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+}
+.landingbgoverly{
+  background: rgba(0, 0, 0, 0.9);
+  height: 80.7vh;
+}
+
